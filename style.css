@@ -683,6 +683,12 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
+  /* Extra */
+::-webkit-scrollbar{
+    width: 8px;
+}
+
+  /* Extra */
 
 /* large devices: 1023 > */
 

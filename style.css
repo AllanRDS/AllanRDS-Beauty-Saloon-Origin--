@@ -103,6 +103,14 @@ body {
   );
   margin-top: 4.9375rem;
 }
+
+::-webkit-scrollbar{
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb{
+    color: var(--base-color);
+}
 /*====  LAYOUT ============================ */
 .container {
   margin-left: 1.5rem;
@@ -684,13 +692,7 @@ footer .social a:hover {
   }
 }
   /* Extra */
-::-webkit-scrollbar{
-    width: 8px;
-}
 
-::-webkit-scrollbar-thumb{
-    color: var(--base-color);
-}
 
   /* Extra */
 

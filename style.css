@@ -688,6 +688,10 @@ footer .social a:hover {
     width: 8px;
 }
 
+::-webkit-scrollbar-thumb{
+    color: var(--base-color);
+}
+
   /* Extra */
 
 /* large devices: 1023 > */
